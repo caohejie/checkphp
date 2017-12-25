@@ -73,4 +73,4 @@ foreach($check_func_map as $func)
     }
 }
 
-echo "see https://github.com/caohejie/checkphp/blob/master/README.md\033[0m\n";
+echo "LINUX 内核调优 see https://github.com/caohejie/checkphp/blob/master/README.md\033[0m\n";

@@ -72,3 +72,5 @@ foreach($check_func_map as $func)
         exit;
     }
 }
+
+echo "see https://github.com/caohejie/checkphp/blob/master/README.md\033[0m\n";
